@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+#timeLeftDisplay {
+  background-color: darkcyan;
+  color: gold;
+  height: fit-content;
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1rem;
+  font-size: 2rem;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 5px 4px 4px 2px darkgrey;
+}
